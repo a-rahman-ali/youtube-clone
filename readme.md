@@ -13,6 +13,10 @@ This project is a static clone of YouTube's main page. It replicates the basic l
 - **HTML**: For structuring the webpage.
 - **CSS**: For styling the webpage, using Google Fonts for typography.
 
+## Live Demo
+
+You can view the live version of this project [here](https://static-yt-clone.netlify.app/).
+
 ## Getting Started
 
 To view this project locally:
